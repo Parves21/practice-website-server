@@ -1,0 +1,51 @@
+[
+    {
+        "id": "0",
+        "name": "Computer Department",
+        "url": "/computer",
+        "class": "text-decoration-none text-dark"
+    },
+    {
+        "id": "1",
+        "name": "Civil Department",
+        "url": "/civil",
+        "class": "text-decoration-none text-dark"
+    },
+    {
+        "id": "2",
+        "name": "Electronice Department",
+        "url": "/electronice",
+        "class": "text-decoration-none text-dark"
+    },
+    {
+        "id": "3",
+        "name": "Electrical Department",
+        "url": "/electrical",
+        "class": "text-decoration-none text-dark"
+    },
+    {
+        "id": "4",
+        "name": "Macanical Department",
+        "url": "/macanical",
+        "class": "text-decoration-none text-dark"
+    },
+    {
+        "id": "5",
+        "name": "Power Department",
+        "url": "/power",
+        "class": "text-decoration-none text-dark"
+    },
+    {
+        "id": "6",
+        "name": "RAC Department",
+        "url": "/rac",
+        "class": "text-decoration-none text-dark"
+    },
+    {
+        "id": "7",
+        "name": "Environment Department",
+        "url": "/environment",
+        "class": "text-decoration-none text-dark"
+    }
+]
+
